@@ -1,0 +1,6 @@
+@SalaCinemaAPI_HostAddress = http://localhost:5221
+
+GET {{SalaCinemaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
